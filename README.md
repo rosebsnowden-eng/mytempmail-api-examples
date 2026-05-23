@@ -2,11 +2,19 @@
 
 Practical examples for using the public MyTempMail API to create disposable email inboxes, poll for verification emails, and test signup flows.
 
+![MyTempMail temporary email generator](assets/mytempmail-home.png)
+
 - Website: https://mytempmail.cc/
 - API documentation: https://mytempmail.cc/developers/
 - API base URL: `https://api.mytempmail.cc`
 
 Use `https://api.mytempmail.cc` for API requests. The main website origin, `https://mytempmail.cc`, serves the web app and documentation.
+
+## Developer Documentation
+
+![MyTempMail developer API documentation](assets/mytempmail-developers.png)
+
+The full API reference lives at https://mytempmail.cc/developers/.
 
 ## What This Repository Includes
 
