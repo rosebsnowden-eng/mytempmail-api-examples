@@ -1,0 +1,27 @@
+{
+  "name": "mytempmail-api-examples",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Example code for the MyTempMail temporary email API.",
+  "type": "module",
+  "scripts": {
+    "create": "node examples/node-create-inbox.mjs",
+    "read": "node examples/node-read-mails.mjs",
+    "test:signup": "playwright test examples/playwright-signup-test.spec.ts",
+    "lint:examples": "node --check examples/node-create-inbox.mjs && node --check examples/node-read-mails.mjs"
+  },
+  "keywords": [
+    "temporary-email",
+    "disposable-email",
+    "temp-mail",
+    "email-api",
+    "testing-tools",
+    "privacy-tools",
+    "developer-tools"
+  ],
+  "author": "MyTempMail",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0"
+  }
+}
