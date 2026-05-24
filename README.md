@@ -6,6 +6,9 @@ Practical examples for using the public MyTempMail API to create disposable emai
 
 - Website: https://mytempmail.cc/
 - API documentation: https://mytempmail.cc/developers/
+- API benchmark: https://mytempmail.cc/temporary-email-api-benchmark/
+- Benchmark CSV: https://mytempmail.cc/temporary-email-api-benchmark.csv
+- Benchmark JSON: https://mytempmail.cc/temporary-email-api-benchmark.json
 - API base URL: `https://api.mytempmail.cc`
 
 Use `https://api.mytempmail.cc` for API requests. The main website origin, `https://mytempmail.cc`, serves the web app and documentation.
@@ -15,6 +18,8 @@ Use `https://api.mytempmail.cc` for API requests. The main website origin, `http
 ![MyTempMail developer API documentation](assets/mytempmail-developers.png)
 
 The full API reference lives at https://mytempmail.cc/developers/.
+
+The benchmark and downloadable dataset live at https://mytempmail.cc/temporary-email-api-benchmark/.
 
 ## What This Repository Includes
 
