@@ -5,6 +5,8 @@ Practical examples for using the public MyTempMail API to create disposable emai
 ![MyTempMail temporary email generator](assets/mytempmail-home.png)
 
 - Website: https://mytempmail.cc/
+- Chrome extension: https://mytempmail.cc/chrome-extension/
+- Chrome Web Store: https://chromewebstore.google.com/detail/caefamhbedbkjbnbpjbccfkcefkjkpai
 - API documentation: https://mytempmail.cc/developers/
 - API benchmark: https://mytempmail.cc/temporary-email-api-benchmark/
 - Benchmark CSV: https://mytempmail.cc/temporary-email-api-benchmark.csv
@@ -20,6 +22,8 @@ Use `https://api.mytempmail.cc` for API requests. The main website origin, `http
 The full API reference lives at https://mytempmail.cc/developers/.
 
 The benchmark and downloadable dataset live at https://mytempmail.cc/temporary-email-api-benchmark/.
+
+The Chrome extension page lives at https://mytempmail.cc/chrome-extension/.
 
 ## What This Repository Includes
 
